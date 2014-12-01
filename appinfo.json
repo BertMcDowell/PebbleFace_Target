@@ -1,0 +1,63 @@
+{
+    "appKeys": {
+        "KEY_INVERT": 0
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "Bert McDowell",
+    "longName": "Target",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/BG_PRIMARY_SECONDARY_MINOR.png",
+                "name": "IMAGE_BACKGROUND_PRIMARY_SECONDARY_MINOR",
+                "type": "png"
+            },
+            {
+                "file": "images/BG_PRIMARY_SECONDARY.png",
+                "name": "IMAGE_BACKGROUND_PRIMARY_SECONDARY",
+                "type": "png"
+            },
+            {
+                "file": "images/PT_LINE.png",
+                "name": "IMAGE_PT_LINE",
+                "type": "png"
+            },
+            {
+                "file": "images/PT_DOT_1.png",
+                "name": "IMAGE_PT_DOT",
+                "type": "png"
+            },
+            {
+                "file": "images/BG_GUIDE.png",
+                "name": "IMAGE_BACKGROUND_GUIDE",
+                "type": "png"
+            },
+            {
+                "file": "images/BG_PRIMARY.png",
+                "name": "IMAGE_BACKGROUND_PRIMARY",
+                "type": "png"
+            },
+            {
+                "file": "images/BG_PLANE.png",
+                "name": "IMAGE_BACKGROUND_PLANE",
+                "type": "png"
+            },
+            {
+                "file": "images/MENU_MOCK_UP_0.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_MOCKUP_0",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Target",
+    "uuid": "2054a453-e87e-4831-838e-4aeb0d3981c8",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
